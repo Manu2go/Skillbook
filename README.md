@@ -54,7 +54,7 @@ profile_frag , reg_train , reg_train1
 
 # Screenshots:-
 <div>
-<img src="/Screenshots/6.png" alt="Drawing"  height="300" width="180" hspace="20">
+<img src="/Screenshots/1.png" alt="Drawing"  height="300" width="180" hspace="20">
 <img src="/Screenshots/2.png" alt="Drawing"  height="300" width="180" hspace="20">
 <img src="/Screenshots/3.png" alt="Drawing"  height="300" width="180" hspace="20">
 <br/><br/>
