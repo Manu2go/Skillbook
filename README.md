@@ -1,4 +1,4 @@
-# Function1_Test
+# Skillbook
 Developed a prototype during an internship.
 Through this app, a user can login as a trainer as well as as a trainee.<br>
 As a trainer, he can advertise his training classes, by providing all the necessary details regarding the classes.<br>
